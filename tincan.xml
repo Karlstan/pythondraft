@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Python - Structure</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6LRwqe8nGhz" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Python - Structure</name>
+			<description lang="und">Python - Structure</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5c13nlUf6Ns" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Python - Structure</name>
+			<description lang="und">Python - Structure</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/63vUHQfLStr" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Python - Structure</name>
+			<description lang="und">Python - Structure</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6HBXLDZ2bOH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cover Page</name>
+			<description lang="und">Cover Page</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5VBsz3wgoMh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Navigation Help</name>
+			<description lang="und">Navigation Help</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6pFFbTdLkFW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Content Page</name>
+			<description lang="und">Content Page</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/67y1swQkwp6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lecture 1.1</name>
+			<description lang="und">Lecture 1.1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5qFbnEmj0Lv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reading Page 1</name>
+			<description lang="und">Reading Page 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6N077WaP2kI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reading Page 2</name>
+			<description lang="und">Reading Page 2</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5oHrEPuqNjT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reading Page 3</name>
+			<description lang="und">Reading Page 3</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5gWgLnEj9NK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Activity 2 Instructions</name>
+			<description lang="und">Activity 2 Instructions</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5olgxvXq0QX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 1</name>
+			<description lang="und">Question 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5olgxvXq0QX/5nrTPh81HeR" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6YmEfw8O80g</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6YmEfw8O80g</id>
+					<description lang="und">	Use list slicing.</description>
+				</component>
+				<component>
+					<id>choice_6jaWUcc8NWN</id>
+					<description lang="und">	Add item at the specified position in the list</description>
+				</component>
+				<component>
+					<id>choice_6CA5E6Zjk2U</id>
+					<description lang="und">	Apply negative indexing</description>
+				</component>
+				<component>
+					<id>choice_5dHiqM5maEE</id>
+					<description lang="und">	Answer 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6RsPAvt2JwB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 2</name>
+			<description lang="und">Question 2</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6RsPAvt2JwB/6fUlOuBo4ub" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5WsYxmWLZ5h</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5WsYxmWLZ5h</id>
+					<description lang="und">	Use the list methods, pop(), insert() and append().</description>
+				</component>
+				<component>
+					<id>choice_5jtPj7pzWQY</id>
+					<description lang="und">	Use the list methods, copy(), clear() and insert()</description>
+				</component>
+				<component>
+					<id>choice_6KtZ8XltPre</id>
+					<description lang="und">	Use the list methods, count(), pop() and append()</description>
+				</component>
+				<component>
+					<id>choice_66ENfRttXg1</id>
+					<description lang="und">	Answer 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6OY6Kh7NUK5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 3</name>
+			<description lang="und">Question 3</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6OY6Kh7NUK5/6GuBqmxr0iW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6A8SyqUVNYl</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6A8SyqUVNYl</id>
+					<description lang="und">	Use len(), divide int by 3, and slice() with reverse() function.</description>
+				</component>
+				<component>
+					<id>choice_5fxS1Cj0N8h</id>
+					<description lang="und">	Use the reverse(), copy(), insert() and append()</description>
+				</component>
+				<component>
+					<id>choice_6NllqrqQffn</id>
+					<description lang="und">	Use the index(), copy(), reverse() and pop()</description>
+				</component>
+				<component>
+					<id>choice_5cD84Sxu3fo</id>
+					<description lang="und">	Answer 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6V54yAeoEEk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide 1</name>
+			<description lang="und">Results Slide 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6giOUlaEyi4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Activity 3 Instructions</name>
+			<description lang="und">Activity 3 Instructions</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5m1QSSbpuUW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5c1SYLYsL3P" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide 3</name>
+			<description lang="und">Results Slide 3</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6dw1ed5Donk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Summary Page</name>
+			<description lang="und">Summary Page</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6iOviz2ONj4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">End</name>
+			<description lang="und">End</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5xYNpeqP42M" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Error</name>
+			<description lang="und">Error</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6jNPVUSYLw5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Solution #1</name>
+			<description lang="und">Solution #1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5ZBpKbAvI5S" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Solution #2</name>
+			<description lang="und">Solution #2</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6Yzc8gVkJFM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Solution #3</name>
+			<description lang="und">Solution #3</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/66oVsKpbQ22" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">True or False</name>
+			<description lang="und">True or False</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/66oVsKpbQ22/6C3vLysoZUe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<choices>
+				<component>
+					<id>choice_5nRJzRMEQsK</id>
+					<description lang="und">	True</description>
+				</component>
+				<component>
+					<id>choice_62bpCy4cgPu</id>
+					<description lang="und">	False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6kw5P3QpAfr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6kw5P3QpAfr/5pznBRahx5h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<choices>
+				<component>
+					<id>choice_65oA3BjgYN2</id>
+					<description lang="und">	Answer 1</description>
+				</component>
+				<component>
+					<id>choice_5sD7rHTRVAi</id>
+					<description lang="und">	Answer 2</description>
+				</component>
+				<component>
+					<id>choice_5wESNnKQYXl</id>
+					<description lang="und">	Answer 3</description>
+				</component>
+				<component>
+					<id>choice_6imWjjn9tfC</id>
+					<description lang="und">	Answer 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5o9U3FoqMYH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5o9U3FoqMYH/6Z56wXqyjh8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<choices>
+				<component>
+					<id>choice_6TECDncivJo</id>
+					<description lang="und">	Answer 1</description>
+				</component>
+				<component>
+					<id>choice_6NIjzekwOsQ</id>
+					<description lang="und">	Answer 2</description>
+				</component>
+				<component>
+					<id>choice_6BrkftVutb7</id>
+					<description lang="und">	Answer 3</description>
+				</component>
+				<component>
+					<id>choice_5YWtyAVqau8</id>
+					<description lang="und">	Answer 4</description>
+				</component>
+				<component>
+					<id>choice_5h2ozra7A6Y</id>
+					<description lang="und">	Answer 5</description>
+				</component>
+				<component>
+					<id>choice_5vu0JxVhOYf</id>
+					<description lang="und">	Answer 6</description>
+				</component>
+				<component>
+					<id>choice_6pbANO89qnh</id>
+					<description lang="und">	Answer 7</description>
+				</component>
+				<component>
+					<id>choice_6FXjmNHju7m</id>
+					<description lang="und">	Answer 8</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6BX3h6McV40" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fill-in-the-Blank</name>
+			<description lang="und">Fill-in-the-Blank</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6BX3h6McV40/6pRB5fOUkgJ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Fill in the Blank</name>
+			<description lang="und">Fill in the Blank</description>
+			<interactionType>fill-in</interactionType>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6F5OzOYryyf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Text Entry</name>
+			<description lang="und">Multiple Text Entry</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6F5OzOYryyf/5ysJtlTTgTZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_605YuOHv8FX</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_605YuOHv8FX</id>
+					<description lang="und">Trigger: Tick</description>
+				</component>
+				<component>
+					<id>choice_6Fxn4Qj5YDP</id>
+					<description lang="und">Trigger: Cross</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5do2bQW3nqp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/5do2bQW3nqp/5wAssobOwby" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6iahpjW6Utd[.]choice_6eWx9dJumK4</correctResponsePattern>
+				<correctResponsePattern>statement_6VZy0CcSrqi[.]choice_6KjWLebRAu1</correctResponsePattern>
+				<correctResponsePattern>statement_656Xiqs9Wov[.]choice_5hZjjaxtt5K</correctResponsePattern>
+				<correctResponsePattern>statement_5ruSVGucCJN[.]choice_6jeiGbHb99s</correctResponsePattern>
+				<correctResponsePattern>statement_5lqpW6EnrJo[.]choice_5lC1wNEgtzY</correctResponsePattern>
+				<correctResponsePattern>statement_6NnMZZZghV6[.]choice_5lsX0NbzW2F</correctResponsePattern>
+				<correctResponsePattern>statement_6Jnj0ExXTYQ[.]choice_67OzRY7G2Hp</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6iahpjW6Utd</id>
+					<description lang="und">Slot 1 - Answer 1 </description>
+				</component>
+				<component>
+					<id>statement_6VZy0CcSrqi</id>
+					<description lang="und">Slot 2 - Answer 2</description>
+				</component>
+				<component>
+					<id>statement_656Xiqs9Wov</id>
+					<description lang="und">Slot 3 - Answer 3</description>
+				</component>
+				<component>
+					<id>statement_5ruSVGucCJN</id>
+					<description lang="und">Slot 4 - Answer 4</description>
+				</component>
+				<component>
+					<id>statement_5lqpW6EnrJo</id>
+					<description lang="und">Slot 5 - Answer 5</description>
+				</component>
+				<component>
+					<id>statement_6NnMZZZghV6</id>
+					<description lang="und">Slot 6 - Answer 6</description>
+				</component>
+				<component>
+					<id>statement_6Jnj0ExXTYQ</id>
+					<description lang="und">Slot 7 - Answer 7</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6eWx9dJumK4</id>
+					<description lang="und">Drag 1</description>
+				</component>
+				<component>
+					<id>choice_6KjWLebRAu1</id>
+					<description lang="und">Drag 2 -  Drag 2</description>
+				</component>
+				<component>
+					<id>choice_5hZjjaxtt5K</id>
+					<description lang="und">Drag 3</description>
+				</component>
+				<component>
+					<id>choice_6jeiGbHb99s</id>
+					<description lang="und">Drag 4</description>
+				</component>
+				<component>
+					<id>choice_5lC1wNEgtzY</id>
+					<description lang="und">Drag 5</description>
+				</component>
+				<component>
+					<id>choice_5lsX0NbzW2F</id>
+					<description lang="und">Drag 6</description>
+				</component>
+				<component>
+					<id>choice_67OzRY7G2Hp</id>
+					<description lang="und">Drag 7</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6T84q426djh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Filler Result Slide</name>
+			<description lang="und">Filler Result Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6hRxBecTlPH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Help: True or False</name>
+			<description lang="und">Help: True or False</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6YiyaSumwUg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Help: Multiple Choice</name>
+			<description lang="und">Help: Multiple Choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6BE6GrNRNze" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Help: Fill-in-the-Blank</name>
+			<description lang="und">Help: Fill-in-the-Blank</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6MAQI14iRty" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Help: Select Many</name>
+			<description lang="und">Help: Select Many</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6dMqAamDaZ3/6aNush2rP2q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Help: Drag and Drop</name>
+			<description lang="und">Help: Drag and Drop</description>
+		</activity>
+	</activities>
+</tincan>
